@@ -19,5 +19,4 @@ public class MvcExceptionHandler {
         return new ResponseEntity<>(errors, HttpStatus.BAD_REQUEST);
     }
 
-
 }
